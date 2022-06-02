@@ -101,16 +101,6 @@
          "current_type":"ALL"
       },
       {
-         "id":10,
-         "product_name":"Panel surya Solarland 100W",
-         "type":"Solar Panel",
-         "merk":"monocrystalline",
-         "price":"Rp1.550.000",
-         "product_url":"https://panelsuryajakarta.com/panel-surya-100wp-monocrystalline-solarland/",
-         "image":"",
-         "current_type":"ALL"
-      },
-      {
          "id":11,
          "product_name":"Panel surya Solarland 100W",
          "type":"Solar Panel",
